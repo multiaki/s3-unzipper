@@ -1,0 +1,20 @@
+{
+  "name": "unzip-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "unzipper": "^0.10.10"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.635.0"
+  }
+}
